@@ -1,6 +1,6 @@
 from apify_client import ApifyClient
 
-client = ApifyClient("apify_api_uMdQOL9Fq3LPSy6WN2LATQ4OHGYL1w2V8fVg")
+client = ApifyClient("copy-paste-your-apify-token-name")
 
 # Prepare the Actor input
 run_input = {
