@@ -1,5 +1,5 @@
 
-##Indeed Job Scraper
+## Indeed Job Scraper
 
 This project utilizes the Apify platform to scrape job listings from Indeed for a specified position and location. The script is designed to fetch job data efficiently and store it in a dataset for easy access.
 
