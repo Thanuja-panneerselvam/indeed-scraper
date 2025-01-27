@@ -1,17 +1,17 @@
 Certainly! Below is a sample README file that you can use for your GitHub repository. You can customize it further based on your specific needs or preferences.
 
 ```markdown
-# Indeed Job Scraper
+Indeed Job Scraper
 
 This project utilizes the Apify platform to scrape job listings from Indeed for a specified position and location. The script is designed to fetch job data efficiently and store it in a dataset for easy access.
 
-## Prerequisites
+Prerequisites
 
 - Python 3.x
 - An Apify account
 - An Apify token
 
-## Installation
+Installation
 
 1. Clone the repository:
 
